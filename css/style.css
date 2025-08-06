@@ -1,0 +1,382 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+a{
+    text-decoration: none;
+}
+
+.container{
+    width: 1280px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+header{
+    background-color: #232536;
+    padding-top: 26px;
+    padding-bottom: 26px;
+}
+
+ul{
+    list-style: none;
+}
+
+.menus{
+    display: inline-block;
+    margin-left: 771px;
+}
+
+.menus li{
+    display: inline-block;
+    margin-left: 24px;
+}
+
+.menus li a{
+    color: white;
+}
+
+.logo{
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+#hero{
+    background-color: #232536;
+}
+
+.main_page_1section{
+    padding-top: 128px;
+    padding-bottom: 192px;
+}
+
+.post{
+    color: white;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+
+.step{
+    color: white;
+    padding-top: 24px;
+    font-size: 56px;
+}
+
+.data{
+    color: white;
+    padding-top: 24px;
+    font-size: 16px;
+}
+
+.duis{
+    color: white;
+    padding-top: 16px;
+    font-size: 16px;
+}
+
+.btn{
+    width: 204px;
+    height: 56px;
+    margin-top: 48px;
+    font-size: 16px;
+    background-color: #FFD050;
+    border: none;
+}
+
+/* #blo */g{
+    margin-top: 94px;
+}
+
+.main_blog{
+    padding-top: 94px;
+}
+
+.pupular_blogs{
+    font-size: 36px;
+}
+
+.desk{
+    width: 405px;
+    height: 318px;
+}
+
+.blog-card{
+    margin-top: 64px;
+    display: inline-block;
+    margin-left: 10px;
+}
+
+.date{
+    font-size: 14px;
+    margin-top: 32px;
+}
+
+.aux{
+    font-size: 28px;
+    margin-top: 16px;
+}
+
+.duis-1{
+    font-size: 16px;
+    margin-top: 16px;
+}
+
+hr{
+    margin-top: 66px;
+}
+
+/* #category{
+    margin-top: 69px;
+    padding-bottom: 73px;
+} */
+
+.main_category{
+    padding-top: 69px;
+    padding-bottom: 73px;
+}
+
+.category-card{
+    margin-top: 71px;
+    height: 221px;
+    width: 296px;
+    border: 1px, solid, #6D6E76;
+    display: inline-block;
+    /* margin-left: 15px; */
+    margin-right: 15px;
+}
+
+.choose{
+    font-size: 48px;
+}
+
+.business{
+    margin-top: 16px;
+    margin-left: 32px;
+    font-size: 28px;
+}
+
+.lorem{
+    margin-top: 4px;
+    margin-left: 32px;
+    font-size: 16px;
+}
+
+.icon{
+    margin-left: 32px;
+    margin-top: 31px;
+    width: 48px;
+    height: 47px;
+}
+
+.category-card-1{
+    margin-top: 71px;
+    height: 221px;
+    width: 296px;
+    border: 1px, solid, #6D6E76;
+    display: inline-block;
+    /* margin-left: 15px; */
+    margin-right: 15px;
+    background-color: #FFD050;
+}
+
+footer{
+    background-color: #232536;
+}
+
+.finstreet{
+    padding-top: 54px;
+    color: white;
+    font-size: 16px;
+}
+
+.hello{
+    color: white;
+    padding-bottom: 54px;
+    font-size: 16px;
+    display: inline-block;
+}
+
+.social li a{
+    width: 16px;
+    height: 16px;
+    margin-left: 27px;
+}
+
+.social li{
+    display: inline-block;
+}
+
+.social{
+    display: inline-block;
+    margin-left: 771px;
+}
+
+.blog_photo{
+    margin-top: 56px;
+}
+
+/* .description_1 h3{
+    display: inline-block;
+}
+
+.description_1 p{
+    display: inline-block;
+} */
+
+.description_2{
+    display: inline-block;
+}
+
+.description_1{
+    display: inline-block;
+    margin-left: 17px
+}
+
+.stp{
+    margin-top: 24px;
+    font-size: 48px;
+}
+
+.starup{
+    margin-top: 34px;
+    font-size: 24px;
+}
+
+.lmn_1{
+    padding-top: 63px;
+    padding-left: 216px;
+    padding-right: 221px;
+}
+
+.andrew{
+    font-size: 28px;
+    color: #592EA9;
+}
+
+.pst{
+    font-size: 16px;
+    color: #6D6E76;
+}
+
+.lorem{
+    /* margin-left: 296px; */
+    margin-top: 4px;
+}
+
+.lorem p{
+    color: #6D6E76;
+    font-size: 16px;
+}
+
+.lorem_blog{
+    padding-top: 62px;
+    padding-left: 216px;
+    padding-bottom: 128px;
+}
+
+
+.our_mision{
+    width: 1280px;
+    height: 441px;
+    background-color: #F4F0F8;
+    padding-top: 83px;
+    padding-left: 86px;
+}
+
+.our_mision h3{
+    font-size: 16px;
+}
+
+.our_mision h1{
+    margin-top: 24px;
+    font-size: 28px;
+}
+
+.our_mision P{
+    margin-top: 16px;
+    font-size: 16px;
+}
+
+
+.hero_abut_us_cnt{
+    padding-top: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+
+#hero2_abut_us{
+    padding-top: 122px;
+}
+
+
+.abot_us_lorem h1{
+    margin-top: 82px;
+    font-size: 36px;
+}
+
+.abot_us_lorem h3{
+    margin-top: 16px;
+    font-size: 24px;
+}
+
+.abot_us_lorem p{
+    margin-top: 16px;
+    font-size: 16px;
+}
+
+.abt_us{
+    display: flex;
+    justify-content: space-between;
+}
+
+#hero3_abut_us{
+    padding-bottom: 127px;
+    padding-top: 122px;
+}
+
+.ull ul{
+    margin-top: 68px;
+}
+
+.ull ul li{
+    margin-top: 22px;
+}
+
+.ull div{
+    padding-left: 253px;
+}
+
+.ull ul li button{
+    width: 768px;
+    height: 76px;
+    background-color: white;
+    border: 2px, solid, #6D6E7680;
+    font-size: 16px;
+    text-align: start;
+
+
+}
+
+.ull h1{
+    margin-top: 69px;
+    padding-left: 300px;
+    font-size: 48px;
+}
+
+.reg_btn{
+    background-color: #FFD050;
+    width: 768px;
+    height: 76px;
+    margin-top: 74px;
+    border: none;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#reg_hero{
+    padding-bottom: 158px;
+}
